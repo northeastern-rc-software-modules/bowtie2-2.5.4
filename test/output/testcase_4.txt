@@ -1,0 +1,19 @@
+========================================================
+Job Name: bowtie2_testcase_4
+Job ID: 3910
+Job Node: d0005
+Start Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
+Step 1: Creating test reads file 'test_reads.fastq' in /output
+Step 1 Completed: Test reads file created successfully.
+File Details:
+File Path: /scratch/r.dharmappa/test/module_tests/bowtie/test/output/test_reads.fastq
+File Content:
+@test_read
+ACGTACGTACGT
++
+IIIIIIIIIIII
+========================================================
+Exiting Compute Node: d0005
+End Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================

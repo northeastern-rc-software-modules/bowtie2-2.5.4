@@ -1,0 +1,17 @@
+========================================================
+Job Name: bowtie2_testcase_2
+Job ID: 3908
+Job Node: d0003
+Start Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
+Step 1: Creating reference genome file 'test_reference.fasta' in /output
+Step 1 Completed: Reference genome created successfully.
+File Details:
+File Path: /scratch/r.dharmappa/test/module_tests/bowtie/test/output/test_reference.fasta
+File Content:
+>test_seq
+ACGTACGTACGTACGTACGT
+========================================================
+Exiting Compute Node: d0003
+End Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
