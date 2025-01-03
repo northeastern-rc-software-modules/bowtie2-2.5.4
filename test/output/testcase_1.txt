@@ -1,0 +1,20 @@
+========================================================
+Job Name: bowtie2_testcase_1
+Job ID: 3907
+Job Node: d0002
+Start Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
+Step 1: Loading Bowtie2 module and verifying version
+Step 1 Completed: Bowtie2 module loaded successfully.
+Bowtie2 Version:
+/shared/EL9/explorer/bowtie2/2.5.4/src/bowtie2-2.5.4-linux-x86_64/bowtie2-align-s version 2.5.4
+64-bit
+Built on 9df741605325
+Thu May 16 16:51:17 UTC 2024
+Compiler: gcc version 9.3.1 20200408 (Red Hat 9.3.1-2) (GCC) 
+Options: -O3 -msse2 -funroll-loops -g3 -g -O2 -fvisibility=hidden -I/hbb_exe_gc_hardened/include -ffunction-sections -fdata-sections -fstack-protector -D_FORTIFY_SOURCE=2 -fPIE -std=c++11 -Wall -Wno-unused-but-set-variable -DPOPCNT_CAPABILITY -DNO_SPINLOCK -DWITH_QUEUELOCK=1 -DWITH_ZSTD
+Sizeof {int, long, long long, void*, size_t, off_t}: {4, 8, 8, 8, 8, 8}
+========================================================
+Exiting Compute Node: d0002
+End Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================

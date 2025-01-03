@@ -1,0 +1,13 @@
+========================================================
+Job Name: bowtie2_testcase_5
+Job ID: 3911
+Job Node: d0003
+Start Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
+Step 1: Performing alignment with Bowtie2
+Step 1 Completed: Alignment successful.
+Output File Path: /scratch/r.dharmappa/test/module_tests/bowtie/test/output/test_output.sam
+========================================================
+Exiting Compute Node: d0003
+End Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
