@@ -1,0 +1,4 @@
+@HD	VN:1.5	SO:unsorted	GO:query
+@SQ	SN:test_seq	LN:20
+@PG	ID:bowtie2	PN:bowtie2	VN:2.5.4	CL:"/shared/EL9/explorer/bowtie2/2.5.4/src/bowtie2-2.5.4-linux-x86_64/bowtie2-align-s --wrapper basic-0 -x src/test_index -S output/test_output.sam -U output/test_reads.fastq"
+test_read	0	test_seq	9	1	12M	*	0	0	ACGTACGTACGT	IIIIIIIIIIII	AS:i:0	XS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:12	YT:Z:UU

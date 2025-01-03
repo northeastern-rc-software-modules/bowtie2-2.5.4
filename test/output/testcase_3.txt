@@ -1,0 +1,13 @@
+========================================================
+Job Name: bowtie2_testcase_3
+Job ID: 3909
+Job Node: d0004
+Start Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
+Step 1: Building Bowtie2 index using 'test_reference.fasta'
+Step 1 Completed: Bowtie2 index built successfully.
+Index Files Path: /scratch/r.dharmappa/test/module_tests/bowtie/test/src
+========================================================
+Exiting Compute Node: d0004
+End Time: Fri Jan  3 02:19:28 PM EST 2025
+========================================================
